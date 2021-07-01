@@ -1,0 +1,87 @@
+/* Table container */
+.ovu-settings-table {
+    table-layout: fixed;
+    width: 200px;
+    max-width: 200px;
+    white-space: nowrap;
+}
+
+.ovu-settings-table td {
+    white-space: nowrap;
+}
+
+.ovu-vertical-align td {
+    vertical-align: top;
+}
+
+/* Labels and Color Pickers */
+.ovu-settings-label {
+    font-weight: bold;
+    white-space: nowrap;
+    width: 150px;
+}
+
+.ovu-settings-color-picker {
+    width: 150px;
+}
+
+.ovu-settings-color-picker-row {
+    display:block;
+    margin-top: 6rem;
+}
+
+/* Plugin Descriptions */
+.ovu-description_plugin p {
+    margin-top: 0;
+}
+
+.ovu-description_example-output{
+    height:25px;
+    width: 100%;
+    font-family: sans-serif;
+    color: orange;
+    font-size: 16px;
+    background-color: black;
+    border-top: 2px solid orange;
+    border-bottom: 2px solid orange;
+    margin-top: 16px;
+    padding-top: 5px;
+    padding-bottom: 0;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.ovu-description_example-output-caption {
+    margin-top:0;
+    white-space: nowrap;
+}
+
+.ovu-description_bottom-margin-caption {
+    font-weight: normal;
+    white-space: nowrap;
+    margin: 0;
+}
+
+/* Bottom Margin Controller */
+input[type=number]#ovu_margin_bottom {
+    width: 65px;
+    max-width: 65px;
+}
+
+.ovu-margin-bottom-controller {
+    padding-left: 4rem;
+}
+
+
+/*#ovu_margin_bottom input[type=number]:invalid,*/
+/*#ovu_margin_bottom input[type=number]:out-of-range {*/
+    /*border: 1px solid crimson;*/
+    /*background: pink;*/
+/*}*/
+/*#ovu_margin_bottom input[type=number]:focus {*/
+    /*background: rgba(111,124,145,.2);*/
+    /*outline      : none;*/
+/*}*/
+
+
+
