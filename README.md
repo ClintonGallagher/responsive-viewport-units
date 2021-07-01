@@ -26,10 +26,10 @@ It has been discovered that the code **may not initially load** or **may not reg
 
 ### <h3>Closing Comments</h3>
 
-Responsive Viewport Units will free you of being distracted and wasting time toggling browser viewport unit simulators on and off. Generated viewport units are present and positioning at the bottom of every page in real-time as you work on the development of your web pages. 
+Responsive Viewport Units will free you of being distracted and wasting time and resources installing and toggling browser addon viewport unit simulators on and off. Generated viewport units will be present and positioned at the bottom of every page **in real-time** as you work on the development of your web pages. 
 
 In aggregate, this code has saved me countless hours of time and frustration determining break points for media queries and resolving other matters when developing web page layouts.
 
-But for conditions of the GPL license this code is distributed **free of any and all constraints or required monetary fees** and will remain so in perpetuity long after I am gone. All I ask is that you remember me in some way that I leave up to you to decide and consider the monetary value of your time as you use this code to build your web pages...
+But for conditions of the GPL license this code is distributed **free of any and all constraints or required monetary fees** and will remain so in perpetuity long after I am gone. All I ask is that you remember me in some way that I leave up to you to decide if and when you consider the monetary value of your time as you use this code to build your web pages...
 
 Help Me: <https://paypal.me/ClintonGallagher>
