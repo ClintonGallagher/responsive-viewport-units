@@ -1,4 +1,4 @@
-# <h1>Responsive Viewport Units</h1>
+# <style type="text/css">h1{color:#214478;}</style>Responsive Viewport Units</h1>
 Responsive ViewPort Units generates and displays a browser's viewport unit values at the bottom of the page displayed within a browser's viewport each time a page is loaded and regenerates the unit values each time the browser is resized horizontally or vertically.
  
 ![Typical Responsive Viewport Unit Generated Output](images/responsive-viewport-units-github-card.png)
