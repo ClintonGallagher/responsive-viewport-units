@@ -1,0 +1,411 @@
+/* ovu_settings_background_color */
+#ovu_settings_background_color
+{
+    width:          30px;
+    height:         30px;
+    position: relative;
+    clear: both;
+    margin: 0 0 3rem 7rem;
+}
+
+#ovu_settings_background_color .track {
+    background:     #EFEFEF url(../images/text-color.png) no-repeat 50% 50%;
+    height:         150px;
+    width:          150px;
+    padding:        10px;
+    position:       absolute;
+    cursor:         crosshair;
+    float:          left;
+    left:           -71px;
+    top:            -71px;
+    display:        none;
+    border:         1px solid #ccc;
+    z-index:        10;
+    -webkit-border-radius: 150px;
+    -moz-border-radius: 150px;
+    border-radius: 150px;
+}
+
+/* PROPERTIES WHEN PAGE IS FIRST DISPLAYED */
+#ovu_settings_background_color .color {
+    width:          25px;
+    height:         25px;
+    padding:        1px;
+    border:         1px solid #373e48;
+    display:        block;
+    position:       relative;
+    z-index:        11;
+    -webkit-border-radius: 27px;
+    -moz-border-radius: 27px;
+    border-radius: 27px;
+    cursor: pointer;
+}
+
+#ovu_settings_background_color .colorInner {
+    width:          25px;
+    height:         25px;
+    -webkit-border-radius: 27px;
+    -moz-border-radius: 27px;
+    border-radius: 27px;
+}
+
+#ovu_settings_background_color .dropdown {
+    list-style: none;
+    display: none;
+    width: 27px;
+    position: absolute;
+    top: 28px;
+    border: 1px solid #ccc;
+    left: 0;
+    z-index: 1000;
+}
+
+#ovu_settings_background_color .dropdown li{
+    height: 25px;
+    cursor: pointer;
+}
+
+/* ovu_settings_text_color */
+#ovu_settings_text_color
+{
+    width:          30px;
+    height:         30px;
+    position: relative;
+    clear: both;
+    margin: 0 0 3rem 10rem;
+}
+
+#ovu_settings_text_color .track {
+    background:     #EFEFEF url(../images/text-color.png) no-repeat 50% 50%;
+    height:         150px;
+    width:          150px;
+    padding:        10px;
+    position:       absolute;
+    cursor:         crosshair;
+    float:          left;
+    left:           -71px;
+    top:            -71px;
+    display:        none;
+    border:         1px solid #ccc;
+    z-index:        10;
+    -webkit-border-radius: 150px;
+    -moz-border-radius: 150px;
+    border-radius: 150px;
+}
+
+#ovu_settings_text_color .color {
+    width:          25px;
+    height:         25px;
+    padding:        1px;
+    border:         1px solid #373e48;
+    display:        block;
+    position:       relative;
+    z-index:        11;
+    -webkit-border-radius: 27px;
+    -moz-border-radius: 27px;
+    border-radius: 27px;
+    cursor: pointer;
+}
+
+#ovu_settings_text_color .colorInner {
+    width:          25px;
+    height:         25px;
+    -webkit-border-radius: 27px;
+    -moz-border-radius: 27px;
+    border-radius: 27px;
+}
+
+#ovu_settings_text_color .dropdown {
+    list-style: none;
+    display: none;
+    width: 27px;
+    position: absolute;
+    top: 28px;
+    border: 1px solid #ccc;
+    left: 0;
+    z-index: 1000;
+}
+
+#ovu_settings_text_color .dropdown li{
+    height: 25px;
+    cursor: pointer;
+}
+
+/* ovu_settings_top_border_color */
+#ovu_settings_top_border_color
+{
+    width:          30px;
+    height:         30px;
+    position: relative;
+    clear: both;
+    margin: 0 0 3rem 7.5rem;
+}
+
+#ovu_settings_top_border_color .track {
+    background:     #EFEFEF url(../images/text-color.png) no-repeat 50% 50%;
+    height:         150px;
+    width:          150px;
+    padding:        10px;
+    position:       absolute;
+    cursor:         crosshair;
+    float:          left;
+    left:           -71px;
+    top:            -71px;
+    display:        none;
+    border:         1px solid #ccc;
+    z-index:        10;
+    -webkit-border-radius: 150px;
+    -moz-border-radius: 150px;
+    border-radius: 150px;
+}
+
+#ovu_settings_top_border_color .color {
+    width:          25px;
+    height:         25px;
+    padding:        1px;
+    border:         1px solid #373e48;
+    display:        block;
+    position:       relative;
+    z-index:        11;
+    -webkit-border-radius: 27px;
+    -moz-border-radius: 27px;
+    border-radius: 27px;
+    cursor: pointer;
+}
+
+#ovu_settings_top_border_color .colorInner {
+    width:          25px;
+    height:         25px;
+    -webkit-border-radius: 27px;
+    -moz-border-radius: 27px;
+    border-radius: 27px;
+}
+
+#ovu_settings_top_border_color .dropdown {
+    list-style: none;
+    display: none;
+    width: 27px;
+    position: absolute;
+    top: 28px;
+    border: 1px solid #ccc;
+    left: 0;
+    z-index: 1000;
+}
+
+#ovu_settings_top_border_color .dropdown li{
+    height: 25px;
+    cursor: pointer;
+}
+
+
+/* ovu_settings_bottom_border_color */
+#ovu_settings_bottom_border_color
+{
+    width:          30px;
+    height:         30px;
+    position: relative;
+    clear: both;
+    margin: 0 0 3rem 6rem;
+}
+
+#ovu_settings_bottom_border_color .track {
+    background:     #EFEFEF url(../images/text-color.png) no-repeat 50% 50%;
+    height:         150px;
+    width:          150px;
+    padding:        10px;
+    position:       absolute;
+    cursor:         crosshair;
+    float:          left;
+    left:           -71px;
+    top:            -71px;
+    display:        none;
+    border:         1px solid #ccc;
+    z-index:        10;
+    -webkit-border-radius: 150px;
+    -moz-border-radius: 150px;
+    border-radius: 150px;
+}
+
+#ovu_settings_bottom_border_color .color {
+    width:          25px;
+    height:         25px;
+    padding:        1px;
+    border:         1px solid #373e48;
+    display:        block;
+    position:       relative;
+    z-index:        11;
+    -webkit-border-radius: 27px;
+    -moz-border-radius: 27px;
+    border-radius: 27px;
+    cursor: pointer;
+}
+
+#ovu_settings_bottom_border_color .colorInner {
+    width:          25px;
+    height:         25px;
+    -webkit-border-radius: 27px;
+    -moz-border-radius: 27px;
+    border-radius: 27px;
+}
+
+#ovu_settings_bottom_border_color .dropdown {
+    list-style: none;
+    display: none;
+    width: 27px;
+    position: absolute;
+    top: 28px;
+    border: 1px solid #ccc;
+    left: 0;
+    z-index: 1000;
+}
+
+#ovu_settings_bottom_border_color .dropdown li{
+    height: 25px;
+    cursor: pointer;
+}
+
+/*
+    DO NOT DELETE THE FOLLOWING USED BY OTHER SUPPORTED PICKER TYPES
+    AS THEY MAY BE USED IN FUTURE RELEASES OF THIS PLUGIN
+*/
+
+/* COLORPICKER 2 EXAMPLE */
+#colorPicker2
+{
+    width:          87px;
+    height:         30px;
+    position: relative;
+    clear: both;
+    margin: 0 auto 20px;
+}
+
+#colorPicker2 .track {
+    background:     #EFEFEF url(../images/firefox.png) no-repeat 50% 50%;
+    height:         150px;
+    width:          150px;
+    padding:        10px;
+    position:       absolute;
+    cursor:         crosshair;
+    float:          left;
+    left:           75px;
+    top:            -71px;
+    display:        none;
+    border:         1px solid #ccc;
+    z-index:        10;
+    -webkit-border-radius: 150px;
+    -moz-border-radius: 150px;
+    border-radius: 150px;
+
+}
+
+#colorPicker2 .color {
+    width:          75px;
+    height:         25px;
+    line-height:    25px;
+    text-decoration : none;
+    border:         1px solid #ccc;
+    display:        block;
+    position:       relative;
+    z-index:        11;
+    color:           #666;
+    background-color: #EFEFEF;
+    -webkit-border-radius: 27px;
+    -moz-border-radius: 27px;
+    border-radius: 27px;
+    cursor: pointer;
+    padding: 0 0 0 10px;
+}
+
+#colorPicker2 .colorInner {
+    width:          25px;
+    height:         25px;
+    float: right;
+    -webkit-border-radius: 27px;
+    -moz-border-radius: 27px;
+    border-radius: 27px;
+    border-left: 3px solid #ccc;
+}
+
+#colorPicker2 .dropdown {
+    list-style: none;
+    display: none;
+    width: 27px;
+    position: absolute;
+    top: 26px;
+    border: 1px solid #ccc;
+    right: 0;
+    z-index: 1000;
+}
+
+#colorPicker2 .dropdown li{
+    height: 25px;
+    cursor: pointer;
+}
+
+/* COLORPICKER 3 EXAMPLE */
+#colorPicker3
+{
+    width:          30px;
+    height:         30px;
+    position: relative;
+    clear: both;
+    margin: 0 auto 20px;
+}
+
+#colorPicker3 .track {
+    background:     #EFEFEF url(../images/text-color.png) no-repeat 50% 50%;
+    height:         150px;
+    width:          150px;
+    padding:        10px;
+    position:       absolute;
+    cursor:         crosshair;
+    float:          left;
+    left:           -71px;
+    top:            -71px;
+    display:        none;
+    border:         1px solid #ccc;
+    z-index:        10;
+    -webkit-border-radius: 150px;
+    -moz-border-radius: 150px;
+    border-radius: 150px;
+
+}
+
+#colorPicker3 .color {
+    width:          25px;
+    height:         25px;
+    padding:        1px;
+    border:         1px solid #ccc;
+    display:        block;
+    position:       relative;
+    z-index:        11;
+    background-color: #EFEFEF;
+    -webkit-border-radius: 27px;
+    -moz-border-radius: 27px;
+    border-radius: 27px;
+    cursor: pointer;
+}
+
+#colorPicker3 .colorInner {
+    width:          25px;
+    height:         25px;
+    -webkit-border-radius: 27px;
+    -moz-border-radius: 27px;
+    border-radius: 27px;
+}
+
+#colorPicker3 .dropdown {
+    list-style: none;
+    display: none;
+    width: 27px;
+    position: absolute;
+    top: 28px;
+    border: 1px solid #ccc;
+    left: 0;
+    z-index: 1000;
+}
+
+#colorPicker3 .dropdown li{
+    height: 25px;
+    cursor: pointer;
+}
