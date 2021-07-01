@@ -3,7 +3,7 @@ Responsive ViewPort Units generates and displays a browser's viewport unit value
  
 ![Typical Responsive Viewport Unit Generated Output](images/responsive-viewport-units-github-card.png)
 
-Help Me Out: <https://paypal.me/ClintonGallagher "Brother can you spare a dime?">
+Help Me Out: <https://paypal.me/ClintonGallagher>
 
 ### <h3>About This Code</h3>
 Responsive ViewPort Units was written using Classic JavaScript in 2017; exceptions noted as follows. The distro was developed as a WordPress plugin and can be installed as such. If wanted the script can be copied from the distro or by viewing source when installed and run on a WordPress site where the source code can be copied by viewing source and pasted into a &lt;script&gt; block in any HTML file by anybody with an interest in doing so.
