@@ -14,22 +14,22 @@ A 3rd party jQuery color picker was selected for use in WordPress Settings where
 
 ### <h3>Dependencies</h3>
 
-- jQuery <span style="color:indianred;font-weight:bold;text-decoration:uppercase">may</span> be required for WordPress settings as noted.
-- JavaScript **<span style="color:indianred">must</span>** be enabled in the browser.
-- Browsers **<span style="color:indianred">must</span>** enable localStorage and cookies.
+- jQuery **may** be required for WordPress settings as noted.
+- JavaScript **must** be enabled in the browser.
+- Browsers **must** enable localStorage and cookies.
 
 ### <h3>Note:</h3>
 
 Responsive Viewport Units has no known or discovered runtime errors per se and will run in any browser on a desktop that supports Classic JavaScript. The code may also run with browsers installed on tablets or mobile devices but this has not been widely tested when Responsive Viewport Units runs on tablets or mobile devices.
 
-It has been discovered that the code **<span style="color:indianred">may not initially load</span>** or **<span style="color:indianred">may not regenerate units</span>** when the code is used with page builders and may also be subject to similar conflicts imposed by hosting service caching. Clearing cache and refreshing typically resolves these annoyances.
+It has been discovered that the code **may not initially load** or **may not regenerate units** when the code is used with page builders and may also be subject to similar conflicts imposed by hosting service caching. Clearing cache and refreshing typically resolves these annoyances.
 
 ### <h3>Closing Comments</h3>
 
-Responsive Viewport Units will free you of being distracted and wasting time and resources installing and toggling browser addon viewport unit simulators on and off. Generated viewport units will be present and positioned at the bottom of every page **<span style="color:#214478;text-decoration:uppercase">in real-time</span>** as you work on the development of your web pages. 
+Responsive Viewport Units will free you of being distracted and wasting time and resources installing and toggling browser addon viewport unit simulators on and off. Generated viewport units will be present and positioned at the bottom of every page **in real-time** as you work on the development of your web pages. 
 
 In aggregate, this code has saved me countless hours of time and frustration determining break points for media queries and resolving other matters when developing web page layouts.
 
-But for conditions of the GPL license this code is distributed **<span style="color:#214478;text-decoration:uppercase">free of any and all constraints or required monetary fees</span>** and will remain so in perpetuity long after I am gone. All I ask is that you remember me in some way that I leave up to you to decide if and when you consider the monetary value of your time as you use this code to build your web pages...
+But for conditions of the GPL license this code is distributed **free of any and all constraints or required monetary fees** and will remain so in perpetuity long after I am gone. All I ask is that you remember me in some way that I leave up to you to decide if and when you consider the monetary value of your time as you use this code to build your web pages...
 
 Help Me: <https://paypal.me/ClintonGallagher>
