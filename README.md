@@ -1,9 +1,9 @@
 # <h1>Responsive Viewport Units</h1>
 Responsive ViewPort Units generates and displays a browser's viewport unit values at the bottom of the page displayed within a browser's viewport each time a page is loaded and regenerates the unit values each time the browser is resized horizontally or vertically.
  
-![](images/responsive-viewport-units-github-card.png)
+![Typical Responsive Viewport Unit Generated Output](images/responsive-viewport-units-github-card.png)
 
-Help Me: <https://paypal.me/ClintonGallagher>
+Help Me Out: <https://paypal.me/ClintonGallagher>
 
 ### <h3>About This Code</h3>
 Responsive ViewPort Units was written using Classic JavaScript in 2017; exceptions noted as follows. The distro was developed as a WordPress plugin and can be installed as such. If wanted the script can be copied from the distro or by viewing source when installed and run on a WordPress site where the source code can be copied by viewing source and pasted into a &lt;script&gt; block in any HTML file by anybody with an interest in doing so.
@@ -26,10 +26,10 @@ It has been discovered that the code **may not initially load** or **may not reg
 
 ### <h3>Closing Comments</h3>
 
-Responsive Viewport Units will free you of being distracted and wasting time toggling browser viewport unit simulators on and off. Generated viewport units are present and positioning at the bottom of every page in real-time as you work on the development of your web pages. 
+Responsive Viewport Units will free you of being distracted and wasting time and resources installing and toggling browser addon viewport unit simulators on and off. Generated viewport units will be present and positioned at the bottom of every page **in real-time** as you work on the development of your web pages. 
 
 In aggregate, this code has saved me countless hours of time and frustration determining break points for media queries and resolving other matters when developing web page layouts.
 
-But for conditions of the GPL license this code is distributed **free of any and all constraints or required monetary fees** and will remain so in perpetuity long after I am gone. All I ask is that you remember me in some way that I leave up to you to decide and consider the monetary value of your time as you use this code to build your web pages...
+But for conditions of the GPL license this code is distributed **free of any and all constraints or required monetary fees** and will remain so in perpetuity long after I am gone. All I ask is that you remember me in some way that I leave up to you to decide if and when you consider the monetary value of your time as you use this code to build your web pages...
 
-Help Me: <https://paypal.me/ClintonGallagher>
+Help Me Out: <https://paypal.me/ClintonGallagher>
