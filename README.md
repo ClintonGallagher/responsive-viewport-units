@@ -1,9 +1,9 @@
-# <h1 style="color:#214478">Responsive Viewport Units</h1>
+# <h1><span style="color:#214478">Responsive Viewport Units</span></h1>
 Responsive ViewPort Units generates and displays a browser's viewport unit values at the bottom of the page displayed within a browser's viewport each time a page is loaded and regenerates the unit values each time the browser is resized horizontally or vertically.
  
 ![Typical Responsive Viewport Unit Generated Output](images/responsive-viewport-units-github-card.png)
 
-Help Me Out:+1: <https://paypal.me/ClintonGallagher>
+Help Me Out: <https://paypal.me/ClintonGallagher>
 
 ### <h3>About This Code</h3>
 Responsive ViewPort Units was written using Classic JavaScript in 2017; exceptions noted as follows. The distro was developed as a WordPress plugin and can be installed as such. If wanted the script can be copied from the distro or by viewing source when installed and run on a WordPress site where the source code can be copied by viewing source and pasted into a &lt;script&gt; block in any HTML file by anybody with an interest in doing so.
@@ -32,4 +32,4 @@ In aggregate, this code has saved me countless hours of time and frustration det
 
 But for conditions of the GPL license this code is distributed **free of any and all constraints or required monetary fees** and will remain so in perpetuity long after I am gone. All I ask is that you remember me in some way that I leave up to you to decide if and when you consider the monetary value of your time as you use this code to build your web pages...
 
-Help Me Out:+1: <https://paypal.me/ClintonGallagher>
+Help Me Out: <https://paypal.me/ClintonGallagher>
