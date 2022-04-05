@@ -6,7 +6,7 @@ Responsive ViewPort Units generates and displays a browser's viewport unit value
 Help Me Out: <https://paypal.me/ClintonGallagher>
 
 ### <h3>About This Code</h3>
-Responsive ViewPort Units was written using Classic JavaScript in 2017; exceptions noted as follows. The distro was developed as a WordPress plugin and can be installed as such. If wanted the script can be copied from the distro or by viewing source when installed and run on a WordPress site where the source code can be copied by viewing source and pasted into a &lt;script&gt; block in any HTML file by anybody with an interest in doing so.
+Responsive ViewPort Units was written using Classic "Vanilla" JavaScript in 2017; exceptions noted as follows. The distro was developed as a WordPress plugin and can be installed as such. If wanted the script can be copied from the distro or by viewing source when installed and run on a WordPress site where the source code can be copied by viewing source and pasted into a &lt;script&gt; block in any HTML file by anybody with an interest in doing so.
 
 The JavaScript source code is commented reasonably well and settings can be modified in WordPress or manually by touching the copied and pasted JavaScript itself as may be wanted or needed by those who have difficulty with the default black and gold color scheme. Similarly, the source code has been written to change the font size and text color to white on a black background when the browser is resized to a very small horizontal width so as to avoid brower chrome from obfuscating the generated output that is hard-coded to not wrap.
 
@@ -20,7 +20,7 @@ A 3rd party jQuery color picker was selected for use in WordPress Settings where
 
 ### <h3>Annoyances</h3>
 
-Responsive Viewport Units has no known or discovered runtime errors per se and will run in any browser on a desktop that supports Classic JavaScript. The code may also run with browsers installed on tablets or mobile devices but this has not been widely tested when Responsive Viewport Units runs on tablets or mobile devices.
+Responsive Viewport Units has no known or discovered runtime errors per se and will run in any browser on a desktop that supports JavaScript. The code may also run with browsers installed on tablets or mobile devices but this has not been widely tested when Responsive Viewport Units runs on tablets or mobile devices.
 
 It has been discovered that the code **may not initially load** or **may not regenerate units** when the code is used with page builders and may also be subject to similar conflicts imposed by hosting service caching. Clearing cache and refreshing typically resolves these annoyances.
 
