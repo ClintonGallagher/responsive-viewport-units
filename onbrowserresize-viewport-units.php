@@ -78,7 +78,7 @@ if ( is_admin() ) {
 
 // MISCELLANEOUS FUNCTIONS
 function modify_admin_footer_text () {
-	echo 'Fueled By <a href="http://www.wordpress.org" target="_blank">WordPress</a> | Made A Teeny Bit Better By  <a href="http://clintongallagher.com" target="_blank">Clinton Gallagher</a>.';
+	echo 'Fueled By <a href="http://www.wordpress.org" target="_blank">WordPress</a> | Made A Teeny Bit Better By  <a href="https://clintongallagher.com" target="_blank">Clinton Gallagher</a>.';
 }
 add_filter('admin_footer_text', 'modify_admin_footer_text');
 
